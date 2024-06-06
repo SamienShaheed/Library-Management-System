@@ -1,0 +1,35 @@
+The book TOM_SAWYER author TWAIN subject FICTION has been added to the library
+
+The book Intro_to_C_Programming author King subject Computer_Science has been added to the library
+
+The book Huckleberry_Finn is NOT currently in the library.
+
+The book Huckleberry_Finn author TWAIN subject FICTION has been added to the library
+
+The book Guns,Germs,Steel author Diamond subject Anthropology has been added to the library
+
+The book Java5.0 author Cohoon subject Computer_Science has been added to the library
+
+List of all books by Twain
+Huckleberry_Finn
+TOM_SAWYER
+
+List of all books on computer_science
+Java5.0
+Intro_to_C_Programming
+
+List of all books on Computr_Science
+No related book for Computr_Science is found.
+
+
+The book Intro_to_C_Programming has been removed from the library.
+
+List of all books by King
+No book from author King.
+
+
+TOM_SAWYER TWAIN FICTION
+Guns,Germs,Steel Diamond Anthropology
+Huckleberry_Finn TWAIN FICTION
+Java5.0 Cohoon Computer_Science
+
